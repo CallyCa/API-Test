@@ -59,7 +59,7 @@ Este endpoint é responsavel por cadastrar um novo game, ele prescisa do token d
 Esse endpoint é utilizado para atualizar um game, ele prescisa do id do games, o id tem que ser mandado na url.
 Exemplo:
 
-(http://localhost:8080/games/6)
+(http://localhost:3000/games/1)
 
 
 ```
